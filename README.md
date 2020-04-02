@@ -1,6 +1,6 @@
 # Stationery-Inventory-System-RESTful-API
 
-A RESTful API that provides the data of the stationery inventory system to be consumed by other applications.
+A RESTful API (ASP.NET) that provides the data of the stationery inventory system to be consumed by other applications.
 
 ## Setup process
 
